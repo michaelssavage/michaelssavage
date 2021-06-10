@@ -1,9 +1,27 @@
-### Michael Savage
+### About Me
 
-- 4th year student studying Computer Applications in DCU. 
-- Currently learning about distributed systems, threading solutions, software principles and processes, and encryption.
-- 🔨 **Technologies used:** Android Studio, Java, Git, ReactJS, Firebase, Mapbox APIs, Google Maps APIs, REST.
+- Computer Applications (w/ Software Engineering) graduate from DCU. 
+- Studied and learned about distributed systems, threading solutions, software principles and processes, and encryption.
 
-### My 4th Year Project
-- eMot, involves developing an application that uses data extraction, natural language processing, emotion classification, and machine learning to judge the sentiment of textual material being read online by a user. We then plan to present some statistics about the usage in a PYQT interface.
-- 🔨 **Current 4th Year project tools:** Python, PYQT5, Spacy, Sci-kit Learn, Pandas, Docker, BeautifulSoup
+🔨 Technologies used:
+
+|                  |             |
+| ---------------- | ----------- |
+| Android Studio   | ReactJS     |
+| Firebase         | Mapbox API  |
+| Google Maps APIs | REST API    |
+|                  |             |
+
+### [My 4th Year Project](https://github.com/michaelssavage/eMot)
+- eMot is a customisable client based emotion classifier. The system uses data extraction, natural language processing, emotion classification, and machine learning to judge the sentiment of textual material being read online by a user.
+- The interface is built using PYQT5 and the QT Designer. These Python tools are wrappers of the QT C++ libraries. 
+
+🔨 4th Year project tools: 
+
+|               |                |
+| ------------- | -------------- |
+| Python        | PYQT5          |
+| Spacy         | Sci-kit Learn  |
+| Pandas        | Docker Desktop |
+| BeautifulSoup | SQLite         |
+|               |                |

@@ -27,16 +27,16 @@
 |               |                |
 
 ### [Plant Bass'd](https://github.com/michaelssavage/plantbassd)
-- A music blog profiling electronic muic in Ireland and around the world.
-- The site is created using Next.JS, SCSS with some bootstrap styling.
+- A music blog profiling electronic music in Ireland and around the world.
+- The site is created using Next.JS, and SCSS and some bootstrap styling.
 - Trello is used to keep track of things that need done.
 
 🔨 tools: 
 
 |                |                |
 | ---------------| -------------- |
-| Next.js        | bootstrap 5    |
-| Scss           | Trello boards  |
+| Next.js        | Bootstrap 5    |
+| SCSS           | Trello         |
 | Markdown posts | Eslint         |
 | pre-commit     | Yarn           |
 |                |                |

@@ -19,6 +19,7 @@
 - A music blog profiling electronic music in Ireland, UK, and around the world.
 - The site is created using Next.JS, and SCSS and some Bootstrap styling.
 - Trello is used to keep track of things that need to be complete.
+- Cover images are created using Adobe Illustrator and Photoshop. [Plant Bass'd Graphics](https://github.com/michaelssavage/plantbassd-graphics)
 
 #### 🔨 tools:  
 - Next.js, Bootstrap 5, SCSS modules, Trello board, Markdown posts, Eslint, pre-commit, Yarn
